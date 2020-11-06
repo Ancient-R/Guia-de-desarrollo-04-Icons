@@ -1,0 +1,13 @@
+body{
+    background-color: #f3f3f3;
+}
+
+/* Estilos para pares */
+.fa-3x:nth-child(even){
+    color: lightseagreen;
+}
+
+/* Estilos para los impares */
+.fa-3x:nth-child(odd){
+    color: lightcoral;
+}
